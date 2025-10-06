@@ -115,12 +115,8 @@ D --> F[📈 Gauge & Bar Charts]
 ---
 
 ## 📸 **App Preview**
+<img width="1728" height="871" alt="image" src="https://github.com/user-attachments/assets/c4dc5ae0-47b0-4ad4-a866-20a915cbe818" />
 
-| Search Interface                                                      | Similarity Analysis                                                      |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| ![Search](https://streamlit.io/images/brand/streamlit-mark-color.png) | ![Similarity](https://img.shields.io/badge/Similarity-Engine-blueviolet) |
-
-*(Replace these with screenshots of your app!)*
 
 ---
 
