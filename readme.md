@@ -15,6 +15,8 @@
 The **Semantic Search Engine** transforms how you explore, analyze, and compare textual data.
 Simply upload files (📄 TXT, 🧾 CSV, 📘 PDF) or input text manually, and perform **semantic search**, **text similarity**, and **embedding visualization** — all from an elegant Streamlit interface.
 
+Try out: https://sentencetransformerencoderapp-gbqnwgnvxou5qwccjhyjr2.streamlit.app/
+
 💡 Powered by **SentenceTransformer** models from Hugging Face, this app brings **context-aware search** and **semantic understanding** to your fingertips.
 
 ---
